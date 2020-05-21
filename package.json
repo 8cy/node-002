@@ -1,6 +1,6 @@
 {
   "name": "002",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An NPM package which returns a quote by Zero Two from the anime DARLING in the FRANXX in string form.",
   "main": "./dist/app.js",
   "types": "./dist/app.d.ts",

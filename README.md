@@ -1,6 +1,6 @@
 # 002 - Zero Two Quotes
 [![npm](https://img.shields.io/npm/v/002.svg)](https://www.npmjs.com/package/002)
-[![license](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/8cy/node-002/blob/master/LICENSEhttps://github.com/8cy/node-002/blob/master/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/8cy/node-002/blob/master/LICENSE)
 
 [![npmbadge](https://nodei.co/npm/002.png)](https://nodei.co/npm/002/)
 
