@@ -36,4 +36,4 @@ $ I think I have taken a liking to you. Won't you be my darling?
 
 *   [Website](https://fuwn.me/)
 *   [NPM](https://npmjs.com/package/002)
-*   [GitHub](https://github/com/fuwn/node-002)
+*   [GitHub](https://github.com/fuwn/node-002)

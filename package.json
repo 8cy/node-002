@@ -1,7 +1,7 @@
 {
   "name": "002",
-  "version": "1.0.4",
-  "description": "An NPM package which returns a quote by Zero Two from the anime DARLING in the FRANXX in string form.",
+  "version": "1.0.5",
+  "description": "An NPM/ Deno package which returns a quote by Zero Two from the anime DARLING in the FRANXX in string form.",
   "main": "./dist/app.js",
   "types": "./dist/app.d.ts",
   "files": [
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/8cy/node-002"
+    "url": "git://github.com/fuwn/node-002"
   },
   "keywords": [
     "meme",
@@ -28,12 +28,13 @@
     "zerotwo",
     "DARLING in the FRANXX",
     "anime",
-    "002"
+    "002",
+    "deno"
   ],
-  "author": "Sin",
+  "author": "Fuwn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/8cy/node-002/issues"
+    "url": "https://github.com/fuwn/node-002/issues"
   },
-  "homepage": "https://github.com/8cy/node-002#readme"
+  "homepage": "https://github.com/fuwn/node-002#readme"
 }
